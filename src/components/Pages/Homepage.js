@@ -4,7 +4,7 @@ import styles from '../../styles/styles.module.css'
 function HomePage() {
   return (
    <>
-    <p className={styles['home-text']}>Thanks for visiting!!</p>
+    <p className={styles['home-text']}>Welcome to my website!</p>
    </>
   );
 }

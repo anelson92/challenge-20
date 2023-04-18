@@ -45,7 +45,6 @@ return (
       currentPage={currentPage}
     />
   </Header>
-  <Page component={currentPage.component} />
   <Footer />
   </div>
 );
