@@ -1,4 +1,4 @@
-# Challenge 6 - Weather Dashboard
+# Challenge 20 - React Portfolio
 
 ## Table of Contents
   
